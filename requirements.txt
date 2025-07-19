@@ -1,0 +1,11 @@
+# Paquetes base
+matplotlib
+Pillow
+
+# Paquetes de utilidad
+unittest2
+uuid
+
+
+# PyTorch (usa la versión que corresponda a tu CUDA o CPU)
+torch
